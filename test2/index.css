@@ -1,0 +1,17 @@
+.contain {
+    width:700px;
+    height:600px;
+    margin: 0 auto;
+    background-color: rgb(199, 84, 138);
+
+}
+.text-name
+{
+    
+   width:100%;
+   height:100px;
+   text-align:center;
+   padding-top: 20px;
+   font-size:2rem;
+
+}
